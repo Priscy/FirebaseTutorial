@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "667079684253",
+    "firebase_url": "https://fir-tutorial-9cef1.firebaseio.com",
+    "project_id": "fir-tutorial-9cef1",
+    "storage_bucket": "fir-tutorial-9cef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667079684253:android:06e3a281d53b12e6",
+        "android_client_info": {
+          "package_name": "com.example.priscila.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667079684253-jg7t5c08ue3i69nmab97am9iom17c0n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQuEd6kStdKpX2OALsX6HC8ZnI8gUfEFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
